@@ -1,0 +1,7 @@
+{
+    "scripts": {
+      "python": "python3",
+      "lint-check": "python3 -m pycodestyle",
+      "format-fix": "python3 -m autopep8 --in-place --aggressive --aggressive"
+    }
+  }
